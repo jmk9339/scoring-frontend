@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Running the server
 
-### 1. (In the /frontend directory) First install Node.js
+### 1. First install Node.js
 - nodejs.org for **Windows**
 - ```sudo apt install nodejs npm``` on **Linux**
 
@@ -28,12 +28,12 @@ You can ensure that the modules are installed by checking:
 - ```npm -v```
 
 ### 2. Installing npm
-- Navigate to the project directory.
+- Navigate to the project /frontend directory.
 - Run the command: 
 ```npm install```
 
 ### 3. Running the server
-- Navigate to the project directory.
+- Navigate to the project /frontend directory.
 - Run the following command:
 ```npm run dev```
 
