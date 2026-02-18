@@ -1,0 +1,7 @@
+
+Dashboard to view all team scores
+
+Must access a file/resource and display status of hosts
+
+Need: Host status, For each team, as well as their current score 
+

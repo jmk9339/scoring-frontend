@@ -1,0 +1,121 @@
+{
+  "teams": [
+    {
+      "name": "Alpha",
+      "icon": "",
+      "score": 100,
+      "hosts": [
+        {
+          "name": "stalingrad",
+          "services": [
+            { "name": "AD", "up": true }
+          ]
+        },
+        {
+          "name": "saint-petersburg",
+          "services": [
+            { "name": "WinRM", "up": true }
+          ]
+        },
+        {
+          "name": "moscow",
+          "services": [
+            { "name": "SMB", "up": true }
+          ]
+        },
+        {
+          "name": "dallas",
+          "services": [
+            { "name": "IMAP", "up": true },
+            { "name": "NGINX", "up": true }
+          ]
+        },
+        {
+          "name": "chicago",
+          "services": [
+            { "name": "SQL", "up": true },
+            { "name": "FTP", "up": true }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bravo",
+      "icon": "",
+      "score": 100,
+      "hosts": [
+        {
+          "name": "stalingrad",
+          "services": [
+            { "name": "AD", "up": true }
+          ]
+        },
+        {
+          "name": "saint-petersburg",
+          "services": [
+            { "name": "WinRM", "up": true }
+          ]
+        },
+        {
+          "name": "moscow",
+          "services": [
+            { "name": "SMB", "up": true }
+          ]
+        },
+        {
+          "name": "dallas",
+          "services": [
+            { "name": "IMAP", "up": true },
+            { "name": "NGINX", "up": true }
+          ]
+        },
+        {
+          "name": "chicago",
+          "services": [
+            { "name": "SQL", "up": true },
+            { "name": "FTP", "up": true }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Charlie",
+      "icon": "",
+      "score": 100,
+      "hosts": [
+        {
+          "name": "stalingrad",
+          "services": [
+            { "name": "AD", "up": true }
+          ]
+        },
+        {
+          "name": "saint-petersburg",
+          "services": [
+            { "name": "WinRM", "up": true }
+          ]
+        },
+        {
+          "name": "moscow",
+          "services": [
+            { "name": "SMB", "up": true }
+          ]
+        },
+        {
+          "name": "dallas",
+          "services": [
+            { "name": "IMAP", "up": true },
+            { "name": "NGINX", "up": true }
+          ]
+        },
+        {
+          "name": "chicago",
+          "services": [
+            { "name": "SQL", "up": true },
+            { "name": "FTP", "up": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
