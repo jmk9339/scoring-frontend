@@ -36,3 +36,7 @@ You can ensure that the modules are installed by checking:
 - Navigate to the project directory.
 - Run the following command:
 ```npm run dev```
+
+### 4. Simulated Back-end service
+- the /local directory houses a python script that will run a mock back-end service that hosts the file needed for the front-end to display information.
+- run the serve_json.py executable if doing a developer environment
