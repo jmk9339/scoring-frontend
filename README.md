@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Running the server
 
-### 1. First install Node.js
+### 1. (In the /frontend directory) First install Node.js
 - nodejs.org for **Windows**
 - ```sudo apt install nodejs npm``` on **Linux**
 
